@@ -4,6 +4,7 @@ class helloworld {
 		// Write your code here
 		System.out.println("Helloo world");
 		System.out.println("Helloo People");
+		System.out.println("Come on come on");
 	}
 }
 
